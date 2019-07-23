@@ -26,8 +26,8 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="https://www.linkedin.com/in/dhruv-b-545b52a9/" target="_blank" rel="noopener noreferrer"> LinkedIn</a></li>
-                <li><a href="https://github.com/Dhruv34788" target="_blank" rel="noopener noreferrer"> GitHub</a></li>
+                <li><a href="https://www.linkedin.com/in/vlad-iulian-burca-11619814a/" target="_blank" rel="noopener noreferrer"> LinkedIn</a></li>
+                <li><a href="https://github.com/Tiki92" target="_blank" rel="noopener noreferrer"> GitHub</a></li>
               </ul>
             </nav>
 

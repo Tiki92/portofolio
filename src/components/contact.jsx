@@ -19,7 +19,7 @@ export default class Contact extends Component {
   									<i class="icon-globe-outline"></i>
   								</div>
   								<div class="colorlib-text">
-  									<p><a href="#">info@domain.com</a></p>
+  									<p><a href="https://tiki92.github.io/portofolio/">Portofolio</a></p>
   								</div>
   							</div>
 

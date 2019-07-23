@@ -1,0 +1,56 @@
+Arguments: 
+  /home/tiki/.nvm/versions/node/v12.5.0/bin/node /home/tiki/Documents/Projects/React/me/node_modules/.bin/yarn run build
+
+PATH: 
+  /home/tiki/.nvm/versions/node/v12.5.0/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/home/tiki/Documents/Projects/React/me/node_modules/.bin:/home/tiki/.nvm/versions/node/v12.5.0/bin:/home/tiki/.local/share/umake/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/tiki/.rvm/bin:/home/tiki/android-sdks/tools:/home/tiki/android-sdks/platform-tools:/usr/lib/jvm/default-java/bin:/home/tiki/.rvm/bin
+
+Yarn version: 
+  1.13.0
+
+Node version: 
+  12.5.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: EISDIR: illegal operation on a directory, read
+
+npm manifest: 
+  {
+    "name": "portfolio-app",
+    "version": "0.1.0",
+    "private": true,
+    "homepage": "https://dbarochiya.github.io/me",
+    "dependencies": {
+      "gh-pages": "^2.0.1",
+      "react": "^16.8.3",
+      "react-dom": "^16.8.3",
+      "react-scripts": "2.1.5",
+      "travis": "^0.1.1",
+      "yarn": "^1.13.0"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "predeploy": "yarn run build",
+      "deploy": "gh-pages -d build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+      "extends": "react-app"
+    },
+    "browserslist": [
+      ">0.2%",
+      "not dead",
+      "not ie <= 11",
+      "not op_mini all"
+    ]
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

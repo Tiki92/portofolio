@@ -14,6 +14,17 @@ export default class Work extends Component{
 				</div>
 
 				<div class="row">
+				<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+						<div class="project" style={{backgroundImage: 'url(images/iWish.jpg)'}}>
+							<div class="desc">
+								<div class="con">
+									<h3><a href="https://play.google.com/store/apps/details?id=com.alupigus.iwish">iWish</a></h3>
+									<span>Flutter Android App</span>
+								</div>
+							</div>
+						</div>
+					</div>
+
 					<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 						<div class="project" style={{backgroundImage: 'url(images/django-logo.jpg)'}}>
 							<div class="desc">

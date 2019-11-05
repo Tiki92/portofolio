@@ -54,17 +54,18 @@ export default class Work extends Component{
 							</div>
 						</div>
 					</div>
-					{/*
+
 					<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-						<div class="project" style={{backgroundImage: 'url(images/about.jpg)'}}>
+						<div class="project" style={{backgroundImage: 'url(images/blog.jpg)'}}>
 							<div class="desc">
 								<div class="con">
-									<h3><a href="work.html">Work 05</a></h3>
-									<span>Graphic, Logo</span>
+									<h3><a href="https://github.com/Tiki92/Blog">Blog</a></h3>
+									<span>Gatsby, React</span>
 								</div>
 							</div>
 						</div>
 					</div>
+					{/*
 					<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 						<div class="project" style={{backgroundImage: 'url(images/about.jpg)'}}>
 							<div class="desc">

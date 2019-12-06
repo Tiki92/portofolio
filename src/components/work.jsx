@@ -76,6 +76,11 @@ export default class Work extends Component{
 							</div>
 						</div>
 					</div>
+					<div class="row">
+						<div class="col-md-12 animate-box">
+							<p><a href="#" class="btn btn-primary btn-lg btn-load-more">Load more <i class="icon-reload"></i></a></p>
+						</div>
+					</div>
 					{/*
 					<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 						<div class="project" style={{backgroundImage: 'url(images/about.jpg)'}}>

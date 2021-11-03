@@ -28,7 +28,7 @@ export default class Contact extends Component {
   									<i class="icon-map"></i>
   								</div>
   								<div class="colorlib-text">
-  									<p>Marasesti 41, Radauti, Suceava, Romania</p>
+  									<p>Available upon Request</p>
   								</div>
   							</div>
 
@@ -37,7 +37,7 @@ export default class Contact extends Component {
   									<i class="icon-phone"></i>
   								</div>
   								<div class="colorlib-text">
-  									<p><a href="tel://">+40 737 065 187</a></p>
+  									<p>Available upon Request</p>
   								</div>
   							</div>
   						</div>
